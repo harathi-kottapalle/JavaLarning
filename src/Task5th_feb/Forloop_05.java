@@ -1,4 +1,4 @@
-package Task5th_january;
+package Task5th_feb;
 
 public class Forloop_05 {
     public static void main(String[] args) {
